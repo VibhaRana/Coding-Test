@@ -1,0 +1,9 @@
+.upload-button{
+    display : 'flex' ;
+    direction : 'row' ;
+}
+
+.paragraph {
+    color : 'darkGreen';
+   
+}
